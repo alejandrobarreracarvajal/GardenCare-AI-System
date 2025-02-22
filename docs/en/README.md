@@ -1,4 +1,4 @@
-# GardenCare AI System / Sistema GardenCare AI
+# GardenCare AI System
 
 Welcome to the GardenCare AI System, a 100% open-source project that combines IoT, databases, and a multi-agent AI system (MAS) to automate plant care. This repository contains the code in both English and Spanish, organized by component and language.
 
