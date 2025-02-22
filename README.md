@@ -1,4 +1,6 @@
-# GardenCare AI System
+<p align="center">
+  <h1>GardenCare AI System</h1>
+</p>
 
 <div align="center">
   <img src="Agent.png" alt="Agent Image" style="max-width: 100%; height: auto;">
@@ -15,7 +17,7 @@ Bienvenido a GardenCare AI System – un proyecto 100% de código abierto que au
 </p>
 
 <div align="center">
-  <img src="Sesnor.jpeg" alt="Sensor Image" style="max-width: 100%; height: auto;">
+  <img src="Sesnor.jpeg" alt="Sensor Image" style="max-width: 50%; height: auto;">
 </div>
 
 ---
