@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="/home/abarrera/Documentos/Git_Hub/GardenCare-AI-System/images/Agent.png" alt="GardenCare AI System" width="60%">
+  <img src="images/Agent.png" alt="GardenCare AI System" width="60%">
 </p>
 
 ## English
@@ -19,7 +19,7 @@ Este repositorio incluye código y documentación en inglés y español.
 Consulta los README correspondientes para obtener todos los detalles.
 
 <p align="center">
-  <img src="/home/abarrera/Documentos/Git_Hub/GardenCare-AI-System/images/Sesnor.jpeg" alt="Humidity Sensor" width="30%">
+  <img src="images/Sesnor.jpeg" alt="Humidity Sensor" width="30%">
 </p>
 
 ---
